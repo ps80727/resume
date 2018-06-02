@@ -586,7 +586,7 @@ a {
 }
 .content-bd .prize .item-content {
   width: 100%;
-  line-height: 24px;
+  line-height: 28px;
   text-indent: 28px;
 }
 @media screen and (max-width: 720px) {
