@@ -204,14 +204,14 @@ a {
     text-align: center;
   }
 }
-.content-hd .avator {
+.content-hd .pangshuo {
   display: block;
   width: 200px;
   height: 200px;
   margin: 0 auto;
 }
 @media screen and (max-width: 720px) {
-  .content-hd .avator {
+  .content-hd .pangshuo {
     width: 150px;
     height: 150px;
   }
