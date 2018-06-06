@@ -257,6 +257,20 @@ a {
     padding: 10px;
   }
 }
+.content-hd .job-intension {
+  padding-top: 40px;
+}
+.content-hd .job-intension h1 {
+  color: #555;
+  font-size:20px;
+  margin-left: 5px;
+  margin-bottom: 15px;
+}
+.content-hd .job-intension .job-content {
+  color: #555;
+  font-size: 16px;
+  margin-top: 20px;
+}
 .content-hd .skill-level {
   padding-top: 80px;
 }
@@ -271,17 +285,18 @@ a {
   margin-left: 5px;
   margin-top: 10px;
 }
-.content-hd .Minor-siklls {
+.content-hd .Minor-skills {
   padding-top: 80px;
 }
-.content-hd .Minor-siklls h1 {
+.content-hd .Minor-skills h1 {
   color: #555;
   font-size:20px;
   margin-left: 5px;
   margin-top 20px;
 }
-.content-hd .Minor-siklls .skills-content {
+.content-hd .Minor-skills .skills-content {
   color: #555;
+  font-size: 16px;
   margin-top: 20px;
 }
 .content-hd .skill-level .item {
