@@ -199,6 +199,7 @@ a {
   .content-hd .name,
   .content-hd .job,
   .content-hd .info,
+  .content-hd .job-info
   .content-hd .contact {
     width: 100%;
     text-align: center;
