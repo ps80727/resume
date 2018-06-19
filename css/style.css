@@ -199,7 +199,9 @@ a {
   .content-hd .name,
   .content-hd .job,
   .content-hd .info,
-  .content-hd .contact {
+  .content-hd .contact,
+  .content-hd .job-info,
+  .content-hd .job-content{
     width: 100%;
     text-align: center;
   }
@@ -263,14 +265,12 @@ a {
 .content-hd .job-intension h1 {
   color: #555;
   font-size:20px;
-  text-align: center;
   margin-left: 5px;
   margin-bottom: 15px;
 }
 .content-hd .job-intension .job-content {
   color: #555;
   font-size: 16px;
-  text-align: center;
   margin-top: 20px;
 }
 .content-hd .skill-level {
